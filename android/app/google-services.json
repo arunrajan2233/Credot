@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28249078644",
+    "project_id": "credot-c7ca9",
+    "storage_bucket": "credot-c7ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28249078644:android:9a592cd03b46fccf11ca21",
+        "android_client_info": {
+          "package_name": "com.credot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7fVdwOjJ5ghCe0kYFwyXybpLFowvsfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
